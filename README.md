@@ -1,20 +1,15 @@
 <html>
+<img src="https://lh3.googleusercontent.com/pw/ADCreHdHHb5gFB6xdmhe1hgUKgiCK3EP0d8T69KRWYdYEIDl83Rgb5c3yNZW_2vmzc2z0ls17denJhT0k3zBmqPGPbCrlEmn9wjDVB8sUSvAbyfAQgFTLHQ7N_j-Hjo3p8Fqu9jB5zAShLsJeBJNkhWdjtLF=w1360-h227-s-no-gm?authuser=0" alt="Cenário Circo" border="0" width="850"/>
 
 <h1><strong>O Espetáculo</strong> <img src="https://lh3.googleusercontent.com/pw/ADCreHc8fCBlhmAdR0-iwIhVphD3-qXHHtq4lwcS-8XbPEp8WfsuY6txnnlMbaj0XnnGEURiqvDGfNN3A8_s6Z_OAoskJLQxQkeX8EmkI5puAUbLzWkDl5p9AC4WA-EA4rY4WcRivGn1JaSqEbsfmBWkvA2e=w512-h512-s-no-gm?authuser=0" alt="Chapéu de Palhaço" border="0" width="40" /></h1>
 <h2>Um jogo de advinhação como você nunca viu antes!</h2>
-
 </html>
-
 
 - Em uma vila distante, na cidade de Esmeralda, existia um palhaço, seu nome era Bartolomeu.
 - Ele era muito conhecido na cidade por seu quadro "A Advinhação do Rei" que interpretava na praça central.
 - O espetáculo tinha como objetivo fazer com que o público tentasse acertar 3 palavras escolhidas por Bartolomeu utilizando, no máximo, 5 dicas para cada, considerando que há uma tentativa por dica.  
 
-
 <html>
-
-  <br></br>
-  <img src="https://lh3.googleusercontent.com/pw/ADCreHdHHb5gFB6xdmhe1hgUKgiCK3EP0d8T69KRWYdYEIDl83Rgb5c3yNZW_2vmzc2z0ls17denJhT0k3zBmqPGPbCrlEmn9wjDVB8sUSvAbyfAQgFTLHQ7N_j-Hjo3p8Fqu9jB5zAShLsJeBJNkhWdjtLF=w1360-h227-s-no-gm?authuser=0" alt="Cenário Circo" border="0" width="800"/>
 
 <h2>Bem vindo ao show! <img src="https://lh3.googleusercontent.com/pw/ADCreHdf3O8mU515NuUAwg6KycQcxpwb0ky--v2NNoa8_SHe3lv5cANl-wxb7K-1rLqQ0zDwzvLsUikWmkbN5oGqtWWqKPt8KuXw5BnHzG6s2A2hUHbyWSnFXrfA-8J0rkAZ4Px68J6Vi9avq2WkQNzjl6So=w196-h239-s-no-gm?authuser=0" alt="Pipoca" border="0" width="25" /></h2>
 
