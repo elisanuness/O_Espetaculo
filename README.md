@@ -39,7 +39,7 @@ _*O jogo suporta até 5 jogadores e cada um pode adivinhar até 3 palavras difer
 
 <html>
 
-<h2><a href="https://replit.com/@elisanuness/O-Espetaculo-Trabalho-Final-IESB?v=1" target="_blank">CLIQUE AQUI PARA JOGAR!!</a></h2>
+<h2><a href="https://replit.com/@elisanuness/O-Espetaculo-Trabalho-Final-IESB?v=1" target="_blank">Clique aqui para acessar o código no replit!!</a></h2>
 
 </html>
 
