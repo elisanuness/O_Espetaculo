@@ -35,7 +35,6 @@ _*O jogo suporta até 5 jogadores e cada um pode adivinhar até 3 palavras difer
 </html>
 
 - O código do jogo foi desenvolvido em C com objetivos acadêmicos.
-- O código do jogo foi desenvolvido em C com objetivos acadêmicos. 
 - Criado em 2023, por Elisa e Mariana.
 
 <html>
